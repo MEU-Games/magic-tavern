@@ -1,0 +1,8 @@
+@back Village
+@spawn Rain params:,0
+@char Priest.Default
+Priest: Just testing 
+@spawn Blur params:,1,3 wait:false
+Priest: End test.
+@title
+@stop
